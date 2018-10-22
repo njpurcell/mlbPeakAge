@@ -1,3 +1,32 @@
 # MLB Peak Age Analysis
 
-![plots](mlbPeakAge.png)
+Confirm the finding that peak age of a major league hitter is 27. The Lahman Database has data for regular season batting. Peak output for home runs, on-base percentage and slugging percentage are used for measure of peak age. This analysis looks at hitters who played in 1955 throug 2015.
+
+## Output
+
+![graphic](mlbPeakAge.png)
+
+## Usage
+
+1. Clone this repo:
+
+$ git clone https://github.com/njpurcell/mlbPeakAge
+
+2. Get into the folder via cd mlbPeakAge.
+
+3. Install requirements with 
+	a. pip intall -r requirements.txt
+
+3. Install requirements with either: 
+	a. pip intall requirements.txt (be sure to use Python 3)
+	b. conda install requirements.txt (if using the anaconda distribution)
+
+4. Run python peakAgeGrapher.py.
+	- This will generate mlbPeakAge.png, which contains graphic shown above.
+
+## Future Exploration
+
+If you would like to extend this work, you might:
+	- look at the subset of Hall of Fame players to see if their peak ages differ from the general population of major leaguers
+		- for this you could use HallOfFame.csv
+	- Go back further in time to explore changes in peak age over time to get a sense of how player development/training has changed
