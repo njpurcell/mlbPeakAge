@@ -27,3 +27,4 @@ If you would like to extend this work, you might:
 * Analyze the subset of Hall of Fame players to see if their peak ages differ from the general population of major leaguers
 	* for this you could use `HallOfFame.csv` in the Lahman Database
 * Go back further in time to explore changes in peak age over time to get a sense of how player development/training has changed
+* Lahman Database can be downloaded here http://www.seanlahman.com/baseball-archive/statistics/
