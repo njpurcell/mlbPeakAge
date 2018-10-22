@@ -1,6 +1,6 @@
 # MLB Peak Age Analysis
 
-Confirm the finding that peak age of a major league hitter is 27. The Lahman Database has data for regular season batting. Peak output for home runs, on-base percentage and slugging percentage are used for measure of peak age. This analysis looks at hitters who played in 1955 throug 2015.
+Confirm the finding that peak age of a major league hitter is 27. The Lahman Database has data for regular season batting. Peak output for home runs, on-base percentage and slugging percentage are used for measure of peak age. This analysis looks at hitters who played in 1955 through 2015.
 
 ## Output
 
